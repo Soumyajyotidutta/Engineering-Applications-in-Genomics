@@ -1,9 +1,5 @@
 function varargout = spot(varargin)
-% SPOT Application M-file for spot.fig
-%    FIG = SPOT launch spot GUI.
-%    SPOT('callback_name', ...) invoke the named callback.
 
-% Last Modified by GUIDE v2.0 06-Sep-2005 14:01:37
 
 global data 
 load spotdata;
